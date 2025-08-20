@@ -1,12 +1,14 @@
-- 👋 Hi, I’m Joseph Ghansah, SJ (@Kaybee-SJ), A Ghanaian Jesuit from the ANW Province of the Society of Jesus
-- 👀 I’m interested in Data Science, Machine Learning, Education, Philosophy and Ethics ...
-- 🌱 I’m currently learning Data Science at University of Greenwich...
-- 💞️ I’m looking to collaborate on Data Analysis, Data Visualization, Bias and Fairness evaluation in ML...
-- 📫 How to reach me via email: jghansahsj@jesuit.org.uk...
-- 😄 Pronouns: He/ Him...
-- ⚡ Fun fact: Loves gaming, traveling and beaches ...
+# 👋 Hi, I’m Joseph Ghansah, SJ  
 
-<!---
-Kaybee-SJ/Kaybee-SJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Ghanaian Jesuit and Data Scientist (MSc, University of Greenwich) with a background in Philosophy (BA).  
+My interests lie in **Machine Learning, Education, Fairness & Ethics in AI, and Data Visualization**.  
+
+- 🔭 Currently working on: predictive modelling, fairness evaluation (Fairlearn, SHAP), and model deployment with Flask.  
+- 🌱 Always learning: advanced ML techniques, interpretability, and ethical applications of AI.  
+- 🤝 Open to collaborating on: **Data Analysis, ML model building, bias & fairness research, and educational data projects**.  
+- 📫 Reach me: **jghansahsj@jesuit.org.uk**  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy gaming, traveling, and relaxing at the beach.  
+
+---
+> *“Bringing together data, ethics, and human-centred impact.”*
