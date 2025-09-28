@@ -6,7 +6,7 @@ My interests lie in **Machine Learning, Education, Fairness & Ethics in AI, and 
 - 🔭 Currently working on: predictive modelling, fairness evaluation (Fairlearn, SHAP), and model deployment with Flask.  
 - 🌱 Always learning: advanced ML techniques, interpretability, and ethical applications of AI.  
 - 🤝 Open to collaborating on: **Data Analysis, ML model building, bias & fairness research, and educational data projects**.  
-- 📫 Reach me: **jghansahsj@jesuit.org.uk**  
+- 📫 Reach me: **joeghansahsj@jesuits-anw.org**  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy gaming, traveling, and relaxing at the beach.  
 
